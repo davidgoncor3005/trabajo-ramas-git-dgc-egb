@@ -2,3 +2,4 @@
   - tomate
   - lechuga
   - aceite
+- - aceitunas
